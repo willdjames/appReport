@@ -1,5 +1,13 @@
+# Eclipse IDE
+*.project
+*.classpath
+*.settings/
+target/
+
 # Compiled class file
 *.class
+*.pdf
+*.jasper
 
 # Log file
 *.log
